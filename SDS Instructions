@@ -1,0 +1,27 @@
+The second deliverable in the course project (after the requirement specification) is the software design specification that describes the software organization and development plan. In contrast to the software requirements specification that is intended to be read by the client, the software design document is meant for the developers that implement the software components and later maintain the software product. Specifically, the software design specification document should describe the overall software architecture and implementation, at a level of detail similar to a UML Class Diagram. The classes, data structures, together with all major functions and their parameters should be specified.
+
+Some software system descriptions are provided. You are also free to propose your own software system. You will work on the system you select for this assignment for the remainder of the semester.
+
+Submissions will be done through your project group github page. Push your software design specification as a pdf or txt file to your group project repository, and submit the link to the file. Only one submission per group is required.
+
+The document submitted by your team should include the following content:
+
+ Title page
+
+Software title
+Team members
+System Description
+
+Brief overview of system
+Software Architecture Overview
+
+Architectural diagram of all major components
+Description of classes
+Description of attributes
+Description of operations
+* descriptions should be detailed and specify datatypes, function interfaces, parameters, etc..
+
+Development plan and timeline
+
+Partitioning of tasks
+Team member responsibilities
