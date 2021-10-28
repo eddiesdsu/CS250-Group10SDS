@@ -6,3 +6,6 @@ Samara Marrow: Sending and receving messages
 
 
 Eddie Coda: Algorithm Tests & tagging images
+
+
+Chavey Villegas: Sending image to DB and DB functions
