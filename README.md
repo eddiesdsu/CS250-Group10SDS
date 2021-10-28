@@ -3,3 +3,6 @@
 
 
 Samara Marrow: Sending and receving messages
+
+
+Eddie Coda: Algorithm Tests & tagging images
