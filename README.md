@@ -4,8 +4,7 @@ SDS: Test Plan---------------------> TPT(3).pdf
 
 Software Design Specification------> SDS.002.pdf
 
-For Team members to use:
-SDS: Test Plan---------------------> TPT.doc
+Software Design 2.0----------------> SDS201.pdf
 
 Samara Marrow: Sending and receving messages
 
